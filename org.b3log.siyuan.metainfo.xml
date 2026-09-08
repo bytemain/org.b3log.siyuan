@@ -17,7 +17,6 @@
   </recommends>
 
   <description>
-    <p>**This is a community package of SiYuan and not officially supported by SiYuan.**</p>
     <p>A privacy-first personal knowledge management system, support fine-grained block-level reference and Markdown WYSIWYG</p>
     <p>Block editing: SiYuan, the only important core concept is Content block. The content block
       can be formed through the formatting format, so that we can organize our thoughts and
